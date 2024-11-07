@@ -56,7 +56,7 @@ end
 
 % Compute DF (degrees of freedom) using eqn 1 in Pyper & Peterman 
 Ndata = sum(~isnan(x1) & ~isnan(x2));
-DF = Ndata/(1+2*sum(autocorr.x1.*autocorr.x2));	
+DF = Ndata/(1+2*sum(autocorr.x1.*autocorr.x2,'omitnan'));	
 if DF>Ndata, DF=Ndata; end
 
 

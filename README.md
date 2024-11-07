@@ -40,7 +40,7 @@ Daily time series of upwelling computed for the Monterey Bay and Point Conceptio
 
 Please refer this paper when using these scripts (PDF available upon request):  
 
-Messié, M., R.E. Sherlock, C.L. Huffard, J.T. Pennington, C.A. Choy, R.P. Michisaki, K. Gomes, F.P. Chavez, B.H. Robison, and K.L. Smith Jr (2023). **Coastal upwelling drives ecosystem temporal variability from the surface to the abyssal seafloor**.  *Proceedings of the National Academy of Sciences*, in press.
+Messié, M., R.E. Sherlock, C.L. Huffard, J.T. Pennington, C.A. Choy, R.P. Michisaki, K. Gomes, F.P. Chavez, B.H. Robison, and K.L. Smith Jr (2023). **Coastal upwelling drives ecosystem temporal variability from the surface to the abyssal seafloor**.  *Proceedings of the National Academy of Sciences*, 120(13), e2214567120, https://doi.org/10.1073/pnas.221456712.
 
 * * *
 

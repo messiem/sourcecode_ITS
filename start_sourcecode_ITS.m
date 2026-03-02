@@ -142,7 +142,7 @@ if strcmp(community,'midwater')
 		r_model_taxa=r(1,2);
 
 		% Compute the integration curves for measured and modeled taxonomic time series, following the same method as above
-		corr_intupw=struct('tau',[1:21 28:7:90 120:30.5:365.25*4.5 (4.5:0.5:10)*365.25]'); % in days (upwelling is a daily time series)
+		corr_intupw=struct('tau',[1:21 28:7:90 120:30.5:365.25*4.5 (4.5:0.5:8)*365.25]'); % in days (upwelling is a daily time series)
 		corr_intupw.r_taxa=nan(size(corr_intupw.tau));
 		corr_intupw.r_model=nan(size(corr_intupw.tau));
 		upw_anom=upw.upw-mean(upw.upw);
